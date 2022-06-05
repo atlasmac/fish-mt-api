@@ -9,7 +9,7 @@ const fish = {
   'rainbow trout': {
     'species': 'Rainbow Trout',
     'latin name': 'Oncorhynchus mykiss',
-    'native': 'Non-native',
+    'native': 'non-native',
     'range': 'Non native throughout the state of Montana. Native in only the Kootenei River drainage',
     'status': 'Common',
     'image': 'https://upload.wikimedia.org/wikipedia/commons/1/1d/Female_Rainbow_Trout_in_hand.JPG'
@@ -42,7 +42,7 @@ const fish = {
     'species': 'Bull Trout',
     'latin name': 'Salvelinus confluentus',
     'native': 'native',
-    'range': 'Native west of the divide and to and the headwaters of the Saskatchewan River. ',
+    'range': 'Native west of the continental divide and to the headwaters of the Saskatchewan River.',
     'status': 'Threatened',
     'image': 'https://idfg.idaho.gov/sites/default/files/styles/threshold-480/public/media/bull_trout.jpg?itok=jb0l2OAq'
   },
@@ -58,7 +58,8 @@ const fish = {
     'species': 'Common Carp',
     'latin name': 'Cyprinus carpio',
     'native': 'non-native',
-    'range': 'Found primarily east of the continental divide.',
+    'anglers': 'The most prized fish species by Montana anglers',
+    'range': 'Primarily found east of the continental divide.',
     'status': 'Invasive',
     'image': 'https://upload.wikimedia.org/wikipedia/commons/9/99/Caprinus_carpio_Prague_Vltava_1.jpg'
   },
